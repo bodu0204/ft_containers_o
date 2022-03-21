@@ -1,0 +1,28 @@
+# output files
+a.out
+*.o
+*.d
+ft_containers
+ft_containers_benchmark
+tester
+
+# google test
+/google_test/
+
+# editor
+.vscode/
+.idea/
+compile_commands.json
+
+# debugger
+peda-session-*.txt
+
+# coverage test
+*.info
+*.profraw
+*.gcda
+*.gcno
+cov_test_html/
+
+# tester
+containers_test/
